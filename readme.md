@@ -244,6 +244,7 @@ By [Kuzniak Romain](https://connect.sensiolabs.com/profile/romainkuzniak)
   <dd>Créer une API REST... Une mission simple en apparence, mais pouvant s'avérer chronophage, et ce même avec certains bundles reconnus tels le FOSRestBundle. Heureusement, d'autres bundles existent, privilégiant les conventions par delà la configuration, ce qui est le cas du [StanLemon/RestBundle](https://github.com/stanlemon/rest-bundle). Développons ensemble, en une dizaine de minutes, une API REST pleinement fonctionnelle, et implémentons y une interface d'administration basée sur [ng-admin](https://github.com/marmelab/ng-admin).</dd>
 </dl>
 
+[Blog post](http://marmelab.com/blog/2015/02/24/ngadmingeneratorbundle-create-javascript-admin-panel-rest-api-symfony2-in-minutes.html)  
 ~~Video~~
 
 By [Jonathan Petitcolas](https://connect.sensiolabs.com/profile/jpetitcolas)  
