@@ -42,7 +42,7 @@ By [Arnaud Langlade](https://connect.sensiolabs.com/profile/arn0)
   <dd>Tu utilises le cache HTTP mais tu te heurtes à ses limites ? Nous présenterons différentes manières de cacher du contenu personnalisé. Au travers du concept du "user context", nous verrons comment mutualiser du cache entre des utilisateurs connectés et partageant le même profil de permission. Nous étudierons également les Edge Side Includes (ESI) et comment cacher des fragments différemment. Ces concepts sont rendus possibles avec Varnish et le composant HttpCache de Symfony, grâce à FOSHttpCacheBundle, que des projets comme le CMS Open Source eZ Publish utilisent.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://lolautruche.github.io/ez/going-crazy-with-caching.html)  
 ~~Video~~
 
 By [David Buchmann](https://connect.sensiolabs.com/profile/dbu)  
@@ -62,7 +62,7 @@ And [Jérôme Vieilledent](https://connect.sensiolabs.com/profile/lolautruche)
   <dd>Dites stop aux fichiers de logs qui traînent sur vos machines ! Nous verrons comment faire pour tirer pleinement parti de vos logs grâce à Monolog et surtout à la stack ELK (Elasticsearch / Logstash / Kibana).</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/odolbeau/logs-hunting)  
 ~~Video~~
 
 By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)  
@@ -78,7 +78,7 @@ By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)
   <dd>Vous vous sentez comme un membre d’équipage dont le navire est sur le point de se briser ? Votre environnement de travail est si triste que vous n’avez plus confiance en l'humanité ? Google vous propose une solution : http://goo.gl/I4jM4n Notre histoire, se déroule au sein d’une équipe technique au bord de l'apoplexie tant en terme humain que technique. Elle va progressivement remonter la pente et gagner ses lettres de noblesses pour enfin brandir son glaive et s’écrier “For The Victory!”. Comment passer d’un monolithe à une architecture microservices (à base de composants Symfony2) ? En quoi l’arrivée d’un chef de projet et de nouveaux process nous a sauvé la mise ? En quoi l’attention porté sur l'humain a favorisé l’émergence d’un collectif technique ? Comment favoriser l’insertion d’une nouvelle personne dans l’équipe ? En quoi l'utilisation pragmatique de technologies reconnues et émergeantes (elk, docker) nous a aidé au jour le jour.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/mediaparttech/attention-cherie-ca-va-trancher)  
 ~~Video~~
 
 By [Bastien Jaillot](https://connect.sensiolabs.com/profile/bastnic)  
@@ -94,7 +94,7 @@ By [Bastien Jaillot](https://connect.sensiolabs.com/profile/bastnic)
   <dd>La présentation abordera l’usage de Symfony2, l’organisation du code et l’usage du projet Sonata chez Canal+ pour répondre aux enjeux de la refonte d’une partie de la plateforme web. La plateforme présente de nombreux challenges techniques: SDK, API privée, API publique restful+hal, création de contenus riches, 5 applications différentes avec une base de code commune, etc … Nous expliquerons également comment il a été possible d’améliorer certaines parties de Sonata ainsi que l’approche choisie pour la création de certains composants transverses.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/3k1n0/thomas-rabaix-symfonylivecanal)  
 ~~Video~~
 
 By [Thomas Rabaix](https://connect.sensiolabs.com/profile/rande)  
@@ -110,12 +110,12 @@ By [Thomas Rabaix](https://connect.sensiolabs.com/profile/rande)
   <dd>Durant cette présentation je vous parlerai d'ElasticSearch avec Elastica et son intégration dans Symfony2. Je commencerai par une présentation de la technologie puis je présenterai nos cas d'utilisations qui ne se limitent pas uniquement à une fonctionnalité de recherche en ligne, j'y intégrerai les nouvelles fonctionnalités d'ElasticSearch comme les Aggregations et Suggester. J'aborderai aussi les problématiques d'ETL via une commande Symfony2, toujours basé sur notre retour d'expériences et notre besoin de performances.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/nicolasbadey/elasticsearch-with-elastica-in-symfony2-architecture)  
 ~~Video~~
 
 By [Nicolas Badey](https://connect.sensiolabs.com/profile/nico-b)  
 ![github](icon/github.png) [@NicolasBadey](https://github.com/NicolasBadey)  
-![twitter](icon/twitter.png) [@nbinteractive](https://twitter.com/nbinteractive)
+![twitter](icon/twitter.png) [@nicolasbadey](https://twitter.com/nicolasbadey)
 
 ---
 
@@ -126,12 +126,12 @@ By [Nicolas Badey](https://connect.sensiolabs.com/profile/nico-b)
   <dd>Le pattern View Model est un pattern simple qui permet d’apporter des solutions à beaucoup de problèmes : - Découpler la logique métier de la présentation - Permettre le refactoring - Faciliter les tests - Permettre de paralléliser le travail front et back - Construire des ressources api ... Nous verrons pourquoi et comment utiliser le pattern View Model avec Symfony2 et comment nous l'utilisons chez OpenClassrooms</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/RomainKuzniak/le-pattern-view-model-avec-symfony2)  
 ~~Video~~
 
 By [Kuzniak Romain](https://connect.sensiolabs.com/profile/romainkuzniak)  
 ![github](icon/github.png) [@romainkuzniak](https://github.com/romainkuzniak)  
-![twitter](icon/twitter.png) [@romainkuzniak](https://twitter.com/romainkuzniak)
+![twitter](icon/twitter.png) [@TurnItUpMethod](https://twitter.com/TurnItUpMethod)
 
 ---
 
@@ -142,7 +142,7 @@ By [Kuzniak Romain](https://connect.sensiolabs.com/profile/romainkuzniak)
   <dd>Comment Meetic opère son changement technologique sur son SI. De la création d’API jusqu’à la mise en place d’une démarche qualité tout en passant par l'adoption du Behavior Driven Development, vous saurez tout sur notre parcours, sur les problématiques que nous avons rencontrées, les solutions que nous avons mises en place ainsi que sur le chemin qu'il nous reste à parcourir afin d’appréhender l’avenir avec la plus grande des sérénités. Les thèmes abordés seront : - Comment aborder des changements majeurs sur notre SI sans impacter notre performance globale ? - Migration d'un code monolithique vers des API REST en Sf2, - Exemple de microservices : AB Test, GEO, Permission, Configuration. - Déploiement avec Composer, Satis, Sf2 et Capistrano sur des centaines de serveurs, - Démarche Qualité (Back, Front, App) : nos métriques, outils du marché, outils interne, gestion aux changements. - Méthodologie : Agilité, DevOps, TDD, BDD. - Next steps : Kafka, Continuous Delivery.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/meeticTech/meetic-backend-mutation-with-symfony)  
 ~~Video~~
 
 By [Joris Calabrese](https://connect.sensiolabs.com/profile/lks)  
@@ -158,7 +158,7 @@ By [Joris Calabrese](https://connect.sensiolabs.com/profile/lks)
   <dd>Développer une application Symfony est maintenant chose commune, mais en connaissez-vous vraiment le comportement en production ? Combien de “fatal error” avez-vous générées aujourd'hui ? Quel est le temps de réponse moyen ? Quelle est la charge absorbée ? Au programme : des éléments sur la gestion des erreurs en prod, la configuration et la customisation de Monolog, le stockage des logs avec elastic search et la visualisation kibana, l’alerting avec sentry et enfin la télémétrie avec graphite, pour vous donner des pistes et savoir où intervenir avant que trop d'utilisateurs ne se plaignent, ou pire, vous abandonnent.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/lyrixx/symfony-live-2015-paris-monitorer-sa-prod)  
 ~~Video~~
 
 By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)  
@@ -174,7 +174,7 @@ By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)
   <dd>Il n'y a que des bugs faciles à résoudre ...quand on a de quoi les cerner ! Le développeur PHP dispose de toute une panoplie d'outils pour tracker les situations les plus rocambolesques. Depuis ses débuts, Symfony n'a eu de cesse d'améliorer l'expérience du développeur en proposant des solutions d'accompagnement robustes et génériques. Les connaissez-vous suffisament ? Lors de cette présentation, je vous donnerai les clefs des mécanismes de debugging présents dans Symfony : VarDumper, Web Debug Toolbar, logs, gestionnaire d'erreur fatales et d'exceptions, etc.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slideshare.net/nicolas.grekas/symfony-debug-vardumper)  
 ~~Video~~
 
 By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
@@ -190,7 +190,7 @@ By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)
   <dd>Au cours de ce talk, je présenterai une architecture moderne qui permet de construire des applications performantes, évolutives et interopérables : un modèle de données dérivé du vocabulaire Schema.org généré avec PHP Schema ; une API REST hypermedia et auto-découvrable (JSON-LD + Hydra) réalisée avec DunglasJsonLdApiBundle (sa première version sera dévoilée lors du Symfony Live) ; sérialisation et validation avancées des données grâce aux nouvelles fonctionnalités du composant Serializer de Symfony 2.7 et du Validator ; authentification stateless (cookie-less) avec JSON Web Token et LexikJWTAuthenticationBundle ; clients divers et variés avec AngularJS, Guzzle, Twig, des applications mobiles natives, des logiciels métiers etc ; BDD et web acceptance testing avec Behat, Mink et Behatch Le talk sera didactique et accessible aux développeurs Symfony de tous niveaux. La construction d'une micro-application suivant cette architecture sera présentée pas à pas.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://dunglas.fr/slides/sf-live-2015/)  
 ~~Video~~
 
 By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)  
@@ -206,7 +206,7 @@ By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)
   <dd>L'utilisation du conteneur d'injection de dépendances (DIC) se résume pour les applications les plus simple a créer des fichiers de configuration XML/YAML. Cependant sa force réside dans la flexibilité qu'il permet d'apporter à la configuration, et l'intégration d'un bundle dans une application. Dans cette présentation, nous reviendrons sur les caractéristiques importantes du conteneur d'injection de dépendance dans une application Symfony, puis nous verrons des exemples d'utilisation plus avancée. Je souhaite vous donner quelques clé pour créer de meilleurs bundles réutilisable et donner plus de flexibilité à votre application.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/adrienbrault/le-dic-ce-chef-dorchestre)  
 ~~Video~~
 
 By [Adrien Brault](https://connect.sensiolabs.com/profile/adrienbrault)  
@@ -222,7 +222,7 @@ By [Adrien Brault](https://connect.sensiolabs.com/profile/adrienbrault)
   <dd>Les containers sont venus bousculer le monde de la virtualisation, et Docker est devenu un outil incontournable. Nous verrons comment l'utiliser avec Symfony et surtout comment l'ajuster pour résoudre les problèmes courants, améliorer les performances ainsi que l’expérience du développeur. Nous nous intéresseront également à son utilisation dans le processus d'intégration continue, nous verrons comment Docker peut simplifier et améliorer l’exécution des tests fonctionnels.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slides.com/jeremyderusse/docker-dev)  
 ~~Video~~
 
 By [Jérémy Derussé](https://connect.sensiolabs.com/profile/jderusse)  
