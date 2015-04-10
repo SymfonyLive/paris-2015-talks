@@ -55,86 +55,6 @@ And [Jérôme Vieilledent](https://connect.sensiolabs.com/profile/lolautruche)
 
 ---
 
-## Laisse pas traîner ton log !
-
-<dl>
-  <dt>Description</dt>
-  <dd>Dites stop aux fichiers de logs qui traînent sur vos machines ! Nous verrons comment faire pour tirer pleinement parti de vos logs grâce à Monolog et surtout à la stack ELK (Elasticsearch / Logstash / Kibana).</dd>
-</dl>
-
-[Slides](https://speakerdeck.com/odolbeau/logs-hunting)  
-~~Video~~
-
-By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)  
-![github](icon/github.png) [@odolbeau](https://github.com/odolbeau)  
-![twitter](icon/twitter.png) [@odolbeau](https://twitter.com/odolbeau)
-
----
-
-## Retour d’expérience : attention chérie, ça va trancher
-
-<dl>
-  <dt>Description</dt>
-  <dd>Vous vous sentez comme un membre d’équipage dont le navire est sur le point de se briser ? Votre environnement de travail est si triste que vous n’avez plus confiance en l'humanité ? Google vous propose une solution : http://goo.gl/I4jM4n Notre histoire, se déroule au sein d’une équipe technique au bord de l'apoplexie tant en terme humain que technique. Elle va progressivement remonter la pente et gagner ses lettres de noblesses pour enfin brandir son glaive et s’écrier “For The Victory!”. Comment passer d’un monolithe à une architecture microservices (à base de composants Symfony2) ? En quoi l’arrivée d’un chef de projet et de nouveaux process nous a sauvé la mise ? En quoi l’attention porté sur l'humain a favorisé l’émergence d’un collectif technique ? Comment favoriser l’insertion d’une nouvelle personne dans l’équipe ? En quoi l'utilisation pragmatique de technologies reconnues et émergeantes (elk, docker) nous a aidé au jour le jour.</dd>
-</dl>
-
-[Slides](https://speakerdeck.com/mediaparttech/attention-cherie-ca-va-trancher)  
-~~Video~~
-
-By [Bastien Jaillot](https://connect.sensiolabs.com/profile/bastnic)  
-![github](icon/github.png) [@bastnic](https://github.com/bastnic)  
-![twitter](icon/twitter.png) [@bastnic](https://twitter.com/bastnic)
-
----
-
-## Symfony et Sonata Project chez Canal+
-
-<dl>
-  <dt>Description</dt>
-  <dd>La présentation abordera l’usage de Symfony2, l’organisation du code et l’usage du projet Sonata chez Canal+ pour répondre aux enjeux de la refonte d’une partie de la plateforme web. La plateforme présente de nombreux challenges techniques: SDK, API privée, API publique restful+hal, création de contenus riches, 5 applications différentes avec une base de code commune, etc … Nous expliquerons également comment il a été possible d’améliorer certaines parties de Sonata ainsi que l’approche choisie pour la création de certains composants transverses.</dd>
-</dl>
-
-[Slides](https://slideshare.net/3k1n0/thomas-rabaix-symfonylivecanal)  
-~~Video~~
-
-By [Thomas Rabaix](https://connect.sensiolabs.com/profile/rande)  
-![github](icon/github.png) [@rande](https://github.com/rande)  
-![twitter](icon/twitter.png) [@th0masr](https://twitter.com/th0masr)
-
----
-
-## ElasticSearch dans une infrastructure Symfony2
-
-<dl>
-  <dt>Description</dt>
-  <dd>Durant cette présentation je vous parlerai d'ElasticSearch avec Elastica et son intégration dans Symfony2. Je commencerai par une présentation de la technologie puis je présenterai nos cas d'utilisations qui ne se limitent pas uniquement à une fonctionnalité de recherche en ligne, j'y intégrerai les nouvelles fonctionnalités d'ElasticSearch comme les Aggregations et Suggester. J'aborderai aussi les problématiques d'ETL via une commande Symfony2, toujours basé sur notre retour d'expériences et notre besoin de performances.</dd>
-</dl>
-
-[Slides](https://speakerdeck.com/nicolasbadey/elasticsearch-with-elastica-in-symfony2-architecture)  
-~~Video~~
-
-By [Nicolas Badey](https://connect.sensiolabs.com/profile/nico-b)  
-![github](icon/github.png) [@NicolasBadey](https://github.com/NicolasBadey)  
-![twitter](icon/twitter.png) [@nicolasbadey](https://twitter.com/nicolasbadey)
-
----
-
-## OpenClassrooms - Le pattern View Model avec Symfony2
-
-<dl>
-  <dt>Description</dt>
-  <dd>Le pattern View Model est un pattern simple qui permet d’apporter des solutions à beaucoup de problèmes : - Découpler la logique métier de la présentation - Permettre le refactoring - Faciliter les tests - Permettre de paralléliser le travail front et back - Construire des ressources api ... Nous verrons pourquoi et comment utiliser le pattern View Model avec Symfony2 et comment nous l'utilisons chez OpenClassrooms</dd>
-</dl>
-
-[Slides](https://slideshare.net/RomainKuzniak/le-pattern-view-model-avec-symfony2)  
-~~Video~~
-
-By [Kuzniak Romain](https://connect.sensiolabs.com/profile/romainkuzniak)  
-![github](icon/github.png) [@romainkuzniak](https://github.com/romainkuzniak)  
-![twitter](icon/twitter.png) [@TurnItUpMethod](https://twitter.com/TurnItUpMethod)
-
----
-
 ## Meetic backend mutation with Symfony
 
 <dl>
@@ -231,6 +151,92 @@ By [Jérémy Derussé](https://connect.sensiolabs.com/profile/jderusse)
 
 ---
 
+---
+
+---
+
+# Lightning Talks
+
+## Laisse pas traîner ton log !
+
+<dl>
+  <dt>Description</dt>
+  <dd>Dites stop aux fichiers de logs qui traînent sur vos machines ! Nous verrons comment faire pour tirer pleinement parti de vos logs grâce à Monolog et surtout à la stack ELK (Elasticsearch / Logstash / Kibana).</dd>
+</dl>
+
+[Slides](https://speakerdeck.com/odolbeau/logs-hunting)  
+~~Video~~
+
+By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)  
+![github](icon/github.png) [@odolbeau](https://github.com/odolbeau)  
+![twitter](icon/twitter.png) [@odolbeau](https://twitter.com/odolbeau)
+
+---
+
+## Retour d’expérience : attention chérie, ça va trancher
+
+<dl>
+  <dt>Description</dt>
+  <dd>Vous vous sentez comme un membre d’équipage dont le navire est sur le point de se briser ? Votre environnement de travail est si triste que vous n’avez plus confiance en l'humanité ? Google vous propose une solution : http://goo.gl/I4jM4n Notre histoire, se déroule au sein d’une équipe technique au bord de l'apoplexie tant en terme humain que technique. Elle va progressivement remonter la pente et gagner ses lettres de noblesses pour enfin brandir son glaive et s’écrier “For The Victory!”. Comment passer d’un monolithe à une architecture microservices (à base de composants Symfony2) ? En quoi l’arrivée d’un chef de projet et de nouveaux process nous a sauvé la mise ? En quoi l’attention porté sur l'humain a favorisé l’émergence d’un collectif technique ? Comment favoriser l’insertion d’une nouvelle personne dans l’équipe ? En quoi l'utilisation pragmatique de technologies reconnues et émergeantes (elk, docker) nous a aidé au jour le jour.</dd>
+</dl>
+
+[Slides](https://speakerdeck.com/mediaparttech/attention-cherie-ca-va-trancher)  
+~~Video~~
+
+By [Bastien Jaillot](https://connect.sensiolabs.com/profile/bastnic)  
+![github](icon/github.png) [@bastnic](https://github.com/bastnic)  
+![twitter](icon/twitter.png) [@bastnic](https://twitter.com/bastnic)
+
+---
+
+## Symfony et Sonata Project chez Canal+
+
+<dl>
+  <dt>Description</dt>
+  <dd>La présentation abordera l’usage de Symfony2, l’organisation du code et l’usage du projet Sonata chez Canal+ pour répondre aux enjeux de la refonte d’une partie de la plateforme web. La plateforme présente de nombreux challenges techniques: SDK, API privée, API publique restful+hal, création de contenus riches, 5 applications différentes avec une base de code commune, etc … Nous expliquerons également comment il a été possible d’améliorer certaines parties de Sonata ainsi que l’approche choisie pour la création de certains composants transverses.</dd>
+</dl>
+
+[Slides](https://slideshare.net/3k1n0/thomas-rabaix-symfonylivecanal)  
+~~Video~~
+
+By [Thomas Rabaix](https://connect.sensiolabs.com/profile/rande)  
+![github](icon/github.png) [@rande](https://github.com/rande)  
+![twitter](icon/twitter.png) [@th0masr](https://twitter.com/th0masr)
+
+---
+
+## ElasticSearch dans une infrastructure Symfony2
+
+<dl>
+  <dt>Description</dt>
+  <dd>Durant cette présentation je vous parlerai d'ElasticSearch avec Elastica et son intégration dans Symfony2. Je commencerai par une présentation de la technologie puis je présenterai nos cas d'utilisations qui ne se limitent pas uniquement à une fonctionnalité de recherche en ligne, j'y intégrerai les nouvelles fonctionnalités d'ElasticSearch comme les Aggregations et Suggester. J'aborderai aussi les problématiques d'ETL via une commande Symfony2, toujours basé sur notre retour d'expériences et notre besoin de performances.</dd>
+</dl>
+
+[Slides](https://speakerdeck.com/nicolasbadey/elasticsearch-with-elastica-in-symfony2-architecture)  
+~~Video~~
+
+By [Nicolas Badey](https://connect.sensiolabs.com/profile/nico-b)  
+![github](icon/github.png) [@NicolasBadey](https://github.com/NicolasBadey)  
+![twitter](icon/twitter.png) [@nicolasbadey](https://twitter.com/nicolasbadey)
+
+---
+
+## OpenClassrooms - Le pattern View Model avec Symfony2
+
+<dl>
+  <dt>Description</dt>
+  <dd>Le pattern View Model est un pattern simple qui permet d’apporter des solutions à beaucoup de problèmes : - Découpler la logique métier de la présentation - Permettre le refactoring - Faciliter les tests - Permettre de paralléliser le travail front et back - Construire des ressources api ... Nous verrons pourquoi et comment utiliser le pattern View Model avec Symfony2 et comment nous l'utilisons chez OpenClassrooms</dd>
+</dl>
+
+[Slides](https://slideshare.net/RomainKuzniak/le-pattern-view-model-avec-symfony2)  
+~~Video~~
+
+By [Kuzniak Romain](https://connect.sensiolabs.com/profile/romainkuzniak)  
+![github](icon/github.png) [@romainkuzniak](https://github.com/romainkuzniak)  
+![twitter](icon/twitter.png) [@TurnItUpMethod](https://twitter.com/TurnItUpMethod)
+
+---
+
 ## Une API et une admin en moins de 10 minutes ? Challenge accepted!
 
 <dl>
@@ -295,3 +301,4 @@ By [Mickaël Andrieu](https://connect.sensiolabs.com/profile/mickaelandrieu)
 
 And [Charles Rouillon](https://connect.sensiolabs.com/profile/crouillon)  
 ![github](icon/github.png) [@crouillon](https://github.com/crouillon)
+
