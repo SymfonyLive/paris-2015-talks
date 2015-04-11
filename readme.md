@@ -292,7 +292,7 @@ By [Manuel Raynaud](https://connect.sensiolabs.com/profile/mraynaud)
   <dd>Backbee est un CMS reposant sur des composants Symfony et Doctrine. Il offre aux contributeurs des sites une expérience ergonomique inédite leur assurant une prise en main rapide et une large autonomie de mise à jour de leurs contenus. La définition souple des droits, des processus de publication et la mise en version systématique des contenus leur assure de plus une grande sécurité éditoriale. BackBee est distribué sous licence open source GPL3.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/mickaelandrieu/backbee-the-next-gen-content-manager-symfonylive-2015)  
 ~~Video~~
 
 By [Mickaël Andrieu](https://connect.sensiolabs.com/profile/mickaelandrieu)  
