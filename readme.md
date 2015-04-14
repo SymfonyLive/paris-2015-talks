@@ -1,7 +1,7 @@
 # [Symfony Live - Paris 2015](http://paris2015.live.symfony.com/) talks
 
 - All talks are in **french**.
-- There is no *joind.in* link for these event.
+- Comment and rate talks on [joind.in](https://joind.in/event/sflive-paris-2015)
 
 ## 10 ans déjà... quid de Symfony 3.0 ?
 
