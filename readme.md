@@ -260,7 +260,7 @@ By [Jonathan Petitcolas](https://connect.sensiolabs.com/profile/jpetitcolas)
   <dd>Akeneo PIM est un outil de gestion de catalogue produits open-source basé sur Symfony et Doctrine. Le développement a démarré il y a deux ans, l'équipe produit a évolué de 2 à 12 personnes, nous proposons une version communautaire et une version entreprise, utilisées par des clients grands comptes au sein de leur SI. En tant qu'éditeur, nous nous concentrons sur le développement des nouvelles fonctionnalités et la maintenance, les développements spécifiques étant réalisés par un réseau de partenaires intégrateurs. Durant cette conférence, sous la forme d'une rétrospective, nous souhaitons présenter notre retour d'expérience technique et méthodologique sur la création de ce produit. Nous présenterons les avantages d'utiliser Symfony comme socle technique, comment rendre une application extensible et maintenable, les écueils techniques que nous avons rencontrés ainsi que les choix techniques que nous ferions aujourd'hui avec l'expérience acquise.</dd>
 </dl>
 
-[Slides](https://slideshare.net/nidup/edition-of-an-enterprise-software-feedback)
+[Slides](https://slideshare.net/nidup/edition-of-an-enterprise-software-feedback)  
 ~~Video~~
 
 By [Nicolas Dupont](https://connect.sensiolabs.com/profile/nidup)  
