@@ -27,7 +27,7 @@ By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)
 </dl>
 
 [Slides](https://slideshare.net/ArnaudLanglade/dvelopper-avec-le-sylius-resourcebundle)  
-~~Video~~
+[Video](https://youtu.be/O8jzsNVFQHg)
 
 By [Arnaud Langlade](https://connect.sensiolabs.com/profile/arn0)  
 ![github](icon/github.png) [@aRn0D](https://github.com/aRn0D)  
