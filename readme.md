@@ -302,3 +302,18 @@ By [Mickaël Andrieu](https://connect.sensiolabs.com/profile/mickaelandrieu)
 And [Charles Rouillon](https://connect.sensiolabs.com/profile/crouillon)  
 ![github](icon/github.png) [@crouillon](https://github.com/crouillon)
 
+---
+
+---
+
+---
+
+### They wrote about the talks
+
+- on [jolicode.com](http://jolicode.com/blog/symfony-live-2015) by [Loïck Piera](https://connect.sensiolabs.com/profile/pyrech)
+- on [blog.eleven-labs.com](http://blog.eleven-labs.com/symfony-live-10-ans-deja/) by [Thierry Thuon](https://connect.sensiolabs.com/profile/lepiaf)
+- on [elao.com](http://www.elao.com/fr/blog/symfony-live-2015) by [Richard Hanna](https://connect.sensiolabs.com/profile/supertanuki)
+- on [blog.naoned.fr](http://blog.naoned.fr/symfony-live-paris-2015-nous-etions/) by [Jean-Baptiste Delhommeau](https://connect.sensiolabs.com/profile/jbdelhommeau) and [Nicolas Marniesse](https://connect.sensiolabs.com/profile/nmarniesse)
+- on [remibarbe.fr](http://remibarbe.fr/blog/2015/04/09/symfony-live-2015-mes-notes/) by [Rémi Barbe](https://connect.sensiolabs.com/profile/remiii)  
+- on [obtao.com](http://obtao.com/blog/2015/04/symfony-live-paris-2015-cetait-comment-2/) by [Grégory Quatannens](https://connect.sensiolabs.com/profile/gscorpio)  
+- on [michaelperrin.fr](http://www.michaelperrin.fr/2015/04/15/retour-sur-la-symfony-live-2015/) by [Michaël Perrin](https://connect.sensiolabs.com/profile/michael.perrin)
