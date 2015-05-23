@@ -43,7 +43,7 @@ By [Arnaud Langlade](https://connect.sensiolabs.com/profile/arn0)
 </dl>
 
 [Slides](http://lolautruche.github.io/ez/going-crazy-with-caching.html)  
-~~Video~~
+[Video](https://youtu.be/XD9OVkb__wk)
 
 By [David Buchmann](https://connect.sensiolabs.com/profile/dbu)  
 ![github](icon/github.png) [@dbu](https://github.com/dbu)  
