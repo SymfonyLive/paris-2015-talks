@@ -63,7 +63,7 @@ And [Jérôme Vieilledent](https://connect.sensiolabs.com/profile/lolautruche)
 </dl>
 
 [Slides](https://slideshare.net/meeticTech/meetic-backend-mutation-with-symfony)  
-~~Video~~
+[Video](https://youtu.be/IH9mk7E7qP8)
 
 By [Joris Calabrese](https://connect.sensiolabs.com/profile/lks)  
 ![github](icon/github.png) [@lks](https://github.com/lks)  
