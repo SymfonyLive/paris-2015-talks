@@ -79,7 +79,7 @@ By [Joris Calabrese](https://connect.sensiolabs.com/profile/lks)
 </dl>
 
 [Slides](https://speakerdeck.com/lyrixx/symfony-live-2015-paris-monitorer-sa-prod)  
-~~Video~~
+[Video](https://youtu.be/XrnK4D1SJqo)
 
 By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)  
 ![github](icon/github.png) [@lyrixx](https://github.com/lyrixx)  
