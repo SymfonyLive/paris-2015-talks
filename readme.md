@@ -95,7 +95,7 @@ By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)
 </dl>
 
 [Slides](http://slideshare.net/nicolas.grekas/symfony-debug-vardumper)  
-~~Video~~
+[Video](https://youtu.be/bkklq2ikm4M)
 
 By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
 ![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
@@ -111,7 +111,7 @@ By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)
 </dl>
 
 [Slides](http://dunglas.fr/slides/sf-live-2015/)  
-~~Video~~
+[Video](https://youtu.be/uI8Dr-Kt6p4)
 
 By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)  
 ![github](icon/github.png) [@dunglas](https://github.com/dunglas)  
