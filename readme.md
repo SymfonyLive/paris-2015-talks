@@ -143,7 +143,7 @@ By [Adrien Brault](https://connect.sensiolabs.com/profile/adrienbrault)
 </dl>
 
 [Slides](http://slides.com/jeremyderusse/docker-dev)  
-~~Video~~
+[Video](https://youtu.be/G_msP7OqTLU)
 
 By [Jérémy Derussé](https://connect.sensiolabs.com/profile/jderusse)  
 ![github](icon/github.png) [@jeremy-derusse](https://github.com/jeremy-derusse)  
